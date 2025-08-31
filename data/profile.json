@@ -13,17 +13,16 @@
       },
       {
         "name": "JavaScript",
-        "logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AJavaScript-logo.png&psig=AOvVaw2_JedSGfjU-9Hp9weEIJzW&ust=1756709034354000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPD7taK5tI8DFQAAAAAdAAAAABAE"
-      }
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+      },
       {
         "name": "Html",
-        "logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ficons%2Fhtml&psig=AOvVaw2ACfyQZg4IvTPBe3BygcJg&ust=1756709779870000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjzmIe8tI8DFQAAAAAdAAAAABAE"
-      }
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+      },
       {
         "name": "Css",
-        "logo": "https://images.seeklogo.com/logo-png/18/1/css3-logo-png_seeklogo-186678.png"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
       }
-      
     ],
     "softSkills": [
       "Empatia",
@@ -33,7 +32,7 @@
     ]
   },
   "languages": [
-    "Português BR",
+    "Português BR"
   ],
   "portfolio": [
     {
@@ -46,5 +45,5 @@
       "url": "https://github.com/LucasOli82/Projeto-yugioh-jokenpo",
       "github": true
     }
-  ],
+  ]
 }
