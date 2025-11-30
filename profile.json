@@ -1,0 +1,53 @@
+{
+  "name": "Lucas Oliveira",
+  "photo": "assets/img/My-Photo.jpeg",
+  "job": "Estudante de Analise e Desenvolvimento de Sistemas",
+  "location": "Recife - PE",
+  "phone": "(81) 98828-8287",
+  "email": "lucasoliveira82@live.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+      },
+      {
+        "name": "Html",
+        "logo": "https://munimasagua.com.gt/wp-content/uploads/2014/06/HTML5logo.png"
+      },
+      {
+        "name": "Css",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+      },
+      {
+        "name": "C",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR"
+  ],
+  "portfolio": [
+    {
+      "name": "Criação de uma Pokedex",
+      "url": "https://github.com/LucasOli82/Projeto-pokedex-DIO-",
+      "github": true
+    },
+    {
+      "name": "Criação de um jogo de Cartas",
+      "url": "https://github.com/LucasOli82/Projeto-yugioh-jokenpo",
+      "github": true
+    }
+  ]
+}
